@@ -1,0 +1,40 @@
+.imgg{
+    width: 90%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.content{
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.content-left{
+    margin: 20px;
+    background-color: blanchedalmond;
+    width: 60%;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.content-right{
+    margin: 20px;
+    background-color:gold;
+    width: 40%;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    background-color:lightslategray;
+    font-size: medium;
+    color: rgba(0, 0, 0, 0.986);
+    margin: 0cqb;
+    padding: 0cqh;
+}
